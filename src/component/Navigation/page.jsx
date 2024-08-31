@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import styles from "@/components/Navigation/page.module.css"
+import styles from "@/component/Navigation/page.module.css"
 
 const Navigation = () => {
       return (

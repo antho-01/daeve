@@ -1,5 +1,5 @@
 import Link from "next/link"
-import styles from "@/components/footer/page.module.css"
+import styles from "@/component/footer/page.module.css"
 import { BiLogoFacebookSquare } from "react-icons/bi";
 import { SlSocialInstagram } from "react-icons/sl";
 import { FaLinkedin } from "react-icons/fa6";
