@@ -1,4 +1,3 @@
-"use client"
 import React from 'react'
 import styles from "@/app/homelisting/page.module.css"
 import { IoBedOutline } from "react-icons/io5";

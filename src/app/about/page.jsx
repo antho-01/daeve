@@ -1,4 +1,3 @@
-"use client"
 import styles from "@/app/about/page.module.css"
 const About = () => {
       
