@@ -1,4 +1,4 @@
-import styles from "@/components/feed/page.module.css"
+import styles from "@/component/feed/page.module.css"
 import Image from "next/image"
 
 import React from 'react'
